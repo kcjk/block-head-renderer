@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Nemo (nemosource) created this mod few years ago,
+Nemo (https://github.com/nemosource) created this mod few years ago,
 and the original one does not exist anymore.
 
 Based on my memories, I created a Block Head Renderer mod
