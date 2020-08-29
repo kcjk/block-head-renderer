@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "blockheadrenderer",
+    "name": "BlockHeadRenderer",
+    "description": "Block Head Render same scale",
+    "version": "1.12.2-0.2",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Nemo", "PatrickKR"],
+    "credits": "All credit goes to Nemo.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
